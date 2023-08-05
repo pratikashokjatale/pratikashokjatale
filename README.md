@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **university**
 
-- 🤝 my website [https://bit.ly/pratik-jatale-web](https://bit.ly/pratik-jatale-web)
+- 🤝 my website [https://bit.ly/pratik-jatale-web](https://pratikjatal.me)
 
 - 👨‍💻 All of my projects are available at [bit.ly/pratik-jatale-projects](bit.ly/pratik-jatale-projects)
 
