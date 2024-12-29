@@ -1,4 +1,4 @@
-!logo([https://drive.google.com/file/d/1ZqQVVYpXKomt-lYjxCK-nWpBckgT9Pl6/view?usp=drive_link](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
+![logo](https://drive.google.com/file/d/1ZqQVVYpXKomt-lYjxCK-nWpBckgT9Pl6/view?usp=drive_link)(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
 <h1 align="center">Hi 👋, I'm pratik jatale</h1>
 <h3 align="center">Java Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
